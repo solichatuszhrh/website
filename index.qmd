@@ -2,18 +2,22 @@
 title: "About Me"
 about:
   id: me
-  template: broadside
-  image: img/profile.png
+  template: solana
+  image: img/profile.jpg
+  image-width: 10em
+  image-shape: round
+  links:    
+    - icon: twitter
+      href: https://twitter.com/solichatuszhrh/
+    - icon: github
+      href: https://github.com/solichatuszhrh/
+    - icon: linkedin
+      href: https://linkedin.com/in/solichatuszahroh/
 ---
 
 :::{#me}
 
-## Goals
-
-## Education
-
-## Experience
-
+A statistician (and part-time traveler) interested in official statistics and business industry.
 :::
 
 Thanks for checking out my web site!

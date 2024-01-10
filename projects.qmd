@@ -3,7 +3,16 @@ title: "Projects"
 ---
 
 ## Project 1
+Survey of Community Perceptions of Bandung City Development in 2017\
+Jun 2017 - Dec 2017\
+[Released Report of the Survey](https://issuu.com/opendatabdg/docs/survey_persepsi_masyarakat_terhadap)
 
 ## Project 2
+Survey of Market Behaviour of Tea Product (Tehdia), Universitas Padjadjaran\
+Oct 2018 - Nov 2018\
+[Check the article about the product](https://www.unpad.ac.id/wp-content/uploads/2019/08/Newsletter_GENTRA_Juli-2019.pdf)
 
 ## Project 3
+Travel Purpose Prediction using GPS Data\
+Sep 2023 - present\
+[More about the app](https://www.cbs.nl/nl-nl/longread/rapportages/2023/onderweg-in-nederland--odin---2022-plausibiliteitsrapportage?onepage=true)

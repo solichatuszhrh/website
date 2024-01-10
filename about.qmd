@@ -1,0 +1,40 @@
+---
+title: "About"
+about:
+  id: me
+  template: solana
+  image: img/profile.jpg
+  image-width: 10em
+  image-shape: round
+  links:    
+    - icon: twitter
+      href: https://twitter.com/solichatuszhrh/
+    - icon: github
+      href: https://github.com/solichatuszhrh/
+    - icon: linkedin
+      href: https://linkedin.com/in/solichatuszahroh/
+---
+
+:::{#me}
+
+## Goals
+Have a strong interest in business and industry analysis also have a passion for strategy. My area of focus and interest varies from quantitative analysis to project management. Generated innovative ideas and strategic to improve processes has provided me with a deeper understanding of multifaceted problems that companies encounter in their daily operations. Used my analytical aptitude and creative problem solving skills to their fullest through strategical thinking.
+
+## Education
+Utrecht University | The Netherlands\
+Master in Methodology and Statistics for the Behavioural, Biomedical, and Social Science | Sep 2022 - Jun 2024
+
+Universitas Padjadjaran | Indonesia\
+Bachelor in Statistics | Aug 2016 - Jan 2020
+
+## Experience
+Utrecht University | Student Assistant | Oct 2023 - present
+
+Centraal Bureau voor de Statistiek | Intern | Sep 2023 - present
+
+Zenius Education | Sales Ops Analyst | Aug 2021 - Aug 2022
+
+Servplus Indonesia | General Support | Jan 2021 - Sep 2021
+
+:::
+
